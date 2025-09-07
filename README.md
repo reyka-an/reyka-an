@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm **\[Your Name]** 👋
+# Hi, I'm **\Anna** 👋
 
 **Junior Backend Developer (ASP.NET Core)**
 
