@@ -34,4 +34,4 @@ I began in **game development with Unity**, then found my passion in **backend e
 
 ### 📫 Contact
 
-**Email:** · **LinkedIn:** · **Telegram:** [@yourhandle](https://t.me/reyka_aa)
+**Email:** · **LinkedIn:** · **Telegram:** [@reyka_aa](https://t.me/reyka_aa)
